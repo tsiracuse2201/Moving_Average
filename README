@@ -1,2 +1,7 @@
-#follow the instructions scans the market for stocks that hit a golden cross and the 50 stayed above the 200 for the past 2 weeks to makes sure it does not
-generate false signals
+1.follow the instructions in the jupyter fule. the fist file, best_moving_average, Scans the market for stocks that hit a golden cross and the 50 day moving average stayed 
+above the 200 for the past 2 weeks to makes sure it does not generate false signals. 
+2. The second file, best_moving_average2, is a slightly modified version that scans the market for stocks that hit a golden cross,ie the 50 day moving 
+average crossed the 200 day moving average, within the last 30 days. The point of this change is to look for stocks that recently hit a golden cross so 
+that an investor can get into the stock while the move is still early rather than get into the stock when its been gaining for a while. The second file 
+also includes more tickers to run based off of market cap.
+
