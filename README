@@ -5,3 +5,7 @@ average crossed the 200 day moving average, within the last 30 days. The point o
 that an investor can get into the stock while the move is still early rather than get into the stock when its been gaining for a while. The second file 
 also includes more tickers to run based off of market cap.
 
+
+*change th tickers in the stock lists for it to analyze different tickers. I cannot afford a Finnub premium account becuase I am a college student 
+and it costs $1500 so if you get an api limit reached error that does not mean there is anything there is wrong with the code you just have to wait 
+because finnhub only lets free users get so much data every minute. Wait a minute and run the cell again. All of this code runs.
